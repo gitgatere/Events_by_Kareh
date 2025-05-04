@@ -13,13 +13,13 @@ interface Testimonial {
 const Testimonials: React.FC = () => {
   const testimonials: Testimonial[] = [
     {
-      name: "Jessica Reynolds",
+      name: "Ann Mishek",
       role: "Bride, 2023",
       comment: "Working with Events by Kareh was the best decision we made for our wedding. Kareh's vision, attention to detail, and flawless execution made our dream wedding come to life in ways we couldn't have imagined.",
       image: "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
-      name: "Michael Chen",
+      name: "Michael",
       role: "CEO, Luminary Tech",
       comment: "Our annual corporate gala needed to impress investors and celebrate our team's achievements. Events by Kareh delivered an experience that exceeded all expectations and left everyone in awe.",
       image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"

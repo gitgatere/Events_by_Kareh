@@ -18,8 +18,8 @@ const AboutPreview: React.FC = () => {
           >
             <div className="relative z-10 rounded-md overflow-hidden shadow-xl">
               <img 
-                src="https://images.pexels.com/photos/5414000/pexels-photo-5414000.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-                alt="Kareh, Founder of Events by Kareh" 
+                src="https://photos.google.com/search/CgAiCBIGCgRyAgoAKNaf3IzpMg%3D%3D/photo/AF1QipP6ZU95dDtXTwPUJsmY4JoVy568zQc0NWsafHAd" 
+                alt="Fridah Wangari, Founder of Events by Kareh" 
                 className="w-full h-full object-cover"
               />
             </div>
@@ -42,7 +42,7 @@ const AboutPreview: React.FC = () => {
             
             <div className="space-y-4 text-neutral-gray-700">
               <p>
-                With over a decade of experience in luxury event planning, Kareh has established herself as the go-to curator for clients who demand nothing but excellence.
+                With over a three years of experience in luxury event planning, Kareh has established herself as the go-to curator for clients who demand nothing but excellence.
               </p>
               <p>
                 Her approach combines meticulous attention to detail with boundless creativity, resulting in events that don't just meet expectations—they transform them.

@@ -31,7 +31,7 @@ const Footer: React.FC = () => {
             </p>
             <div className="flex gap-4 mt-6">
               <a 
-                href="https://instagram.com" 
+                href="https://www.instagram.com/events.by.kareh?igsh=MWtlZGQ4ZmZuZGd2cQ==" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-neutral-gray-300 hover:text-gold transition-colors"

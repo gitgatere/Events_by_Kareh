@@ -1,4 +1,4 @@
-🎉 Event by Kareh
+🎉 Events by Kareh
 A responsive web application designed to help users plan, organize, and manage events effortlessly. Whether it's a birthday party, corporate meeting, or wedding, this platform streamlines event planning from start to finish.
 
 🚀 Features
@@ -50,10 +50,10 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/your-username/event-planner-website.git
+git clone 
 
 # Navigate to the project directory
-cd event-planner-website
+cd 
 
 # Install frontend dependencies
 cd client
